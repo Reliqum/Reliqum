@@ -83,7 +83,8 @@
 
 ## 🐱‍💻 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Reliqum/Reliqum/refs/heads/main/diplom.png)
-
+[<img src="/ds.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Reliqum/Reliqum/refs/heads/main/ds.png)
+[<img src="/pb.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Reliqum/Reliqum/refs/heads/main/pb.png)
 <br>
 <br>
 
